@@ -50,5 +50,5 @@ button {
 }
 
 button[disabled="true"] {
-	cursor: default;
+	cursor: default;    
 }
